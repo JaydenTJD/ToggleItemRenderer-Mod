@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToggleItemRenderer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38f05be903125827c143724cc930eea6309f4b3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToggleItemRenderer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToggleItemRenderer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
